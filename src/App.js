@@ -2,8 +2,7 @@ import React from 'react';
 import { useQuery } from '@apollo/react-hooks';
 import { gql } from 'apollo-boost';
 
-import logo from './logo.svg';
-import './App.css';
+import Document from './organisms/Document';
 
 const GET_DOCUMENT = gql`
   {
@@ -42,25 +41,9 @@ function App() {
   if (error) return <p>Error :(</p>;
 
   console.log('data', data);
+  const { share: { version: { document: { name, artboards } } } } = data;
 
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <Document name={name} artboards={artboards} />;
 }
 
 export default App;
