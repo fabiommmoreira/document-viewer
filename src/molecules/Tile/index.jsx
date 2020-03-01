@@ -11,10 +11,11 @@ const TileWrapper = styled.li`
   justify-content: space-between;
   flex: 1 0 auto;
   margin: 16px 32px;
+  cursor: pointer;
 `;
 
-const Tile = ({ caption, thumbnail }) => (
-  <TileWrapper>
+const Tile = ({ caption, thumbnail, onClick }) => (
+  <TileWrapper role="button" onClick={onClick}>
     <Thumbnail thumbnail={thumbnail} alt={caption} />
     <Caption text={caption} />
   </TileWrapper>

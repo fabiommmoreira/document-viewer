@@ -11,19 +11,29 @@ const IFile = {
   height: PropTypes.number,
   width: PropTypes.number,
   scale: PropTypes.number,
-  thumbnails: PropTypes.arrayOf(IThumbnail),
+  thumbnails: PropTypes.arrayOf(PropTypes.shape(IThumbnail)),
 };
 
 const IArtboard = {
   name: PropTypes.string,
   isArtboard: PropTypes.boolean,
-  files: PropTypes.arrayOf(IFile),
+  files: PropTypes.arrayOf(PropTypes.shape(IFile)),
 };
 
 const IDocument = {
   name: PropTypes.string,
-  artboards: PropTypes.arrayOf(IArtboard),
+  artboards: PropTypes.shape({
+    entries: PropTypes.arrayOf(PropTypes.shape(IArtboard)),
+  }),
+};
 
+const IArtboardPage = {
+  data: IArtboard,
+  handleClose: PropTypes.func,
+  handlePrevious: PropTypes.func,
+  handleNext: PropTypes.func,
+  index: PropTypes.number,
+  total: PropTypes.number,
 };
 
 const ITopBar = {
@@ -32,17 +42,40 @@ const ITopBar = {
 
 const ITile = {
   caption: PropTypes.string,
-  thumbnail: IThumbnail,
+  thumbnail: PropTypes.shape(IThumbnail),
+  onClick: PropTypes.func,
 };
 
 const ITiles = {
-  entries: PropTypes.arrayOf(ITile),
+  entries: PropTypes.arrayOf(PropTypes.shape(ITile)),
+  openEntry: PropTypes.func,
 };
 
 const ICaption = {
   text: PropTypes.string,
 };
 
+const IButton = {
+  children: PropTypes.node,
+  onClick: PropTypes.func,
+};
+
+const INavigation = {
+  current: PropTypes.number,
+  total: PropTypes.number,
+  handlePrevious: PropTypes.func,
+  handleNext: PropTypes.func,
+};
+
 export {
-  IDocument, IArtboard, ITopBar, ITile, ITiles, ICaption, IThumbnail,
+  IDocument,
+  IArtboardPage,
+  IArtboard,
+  ITopBar,
+  ITile,
+  ITiles,
+  ICaption,
+  IThumbnail,
+  IButton,
+  INavigation,
 };

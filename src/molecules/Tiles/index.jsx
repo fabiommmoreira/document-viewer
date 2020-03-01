@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import Tile from '../Tile';
+import { slugify } from '../../utils';
 import { ITiles } from '../../interfaces';
 
 const TileList = styled.ul`
@@ -14,13 +15,20 @@ const TileList = styled.ul`
   margin: 0px;
 `;
 
-const Tiles = ({ entries }) => (
+const Tiles = ({ entries, openEntry }) => (
   <TileList>
-    { entries.map((entry) => {
+    { entries.map((entry, idx) => {
       const { name: caption, files } = entry;
       const [thumbnail] = files[0].thumbnails;
 
-      return <Tile caption={caption} thumbnail={thumbnail} />;
+      return (
+        <Tile
+          key={slugify(caption)}
+          caption={caption}
+          thumbnail={thumbnail}
+          onClick={() => openEntry(idx)}
+        />
+      );
     }) }
   </TileList>
 );
