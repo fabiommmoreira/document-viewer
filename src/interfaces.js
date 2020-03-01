@@ -35,6 +35,14 @@ const ITile = {
   thumbnail: IThumbnail,
 };
 
+const ITiles = {
+  entries: PropTypes.arrayOf(ITile),
+};
+
+const ICaption = {
+  text: PropTypes.string,
+};
+
 export {
-  IDocument, IArtboard, ITopBar, ITile,
+  IDocument, IArtboard, ITopBar, ITile, ITiles, ICaption, IThumbnail,
 };

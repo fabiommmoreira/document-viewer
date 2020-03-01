@@ -1,26 +1,15 @@
 import React from 'react';
 
 import TopBar from '../../atoms/TopBar';
-import Tile from '../../molecules/Tile';
+import Tiles from '../../molecules/Tiles';
 import { IDocument } from '../../interfaces';
 
-const Document = ({ name, artboards: { entries } }) => {
-  console.log('{ name, entries }', { name, entries });
-
-  return (
-    <>
-      <TopBar>{ name }</TopBar>
-      <div>
-        { entries.map((entry) => {
-          const { name: caption, files } = entry;
-          const [thumbnail] = files[0].thumbnails;
-
-          return <Tile caption={caption} thumbnails={thumbnail} />;
-        }) }
-      </div>
-    </>
-  );
-};
+const Document = ({ name, artboards: { entries } }) => (
+  <>
+    <TopBar>{ name }</TopBar>
+    <Tiles entries={entries} />
+  </>
+);
 
 Document.propTypes = IDocument;
 
