@@ -28,7 +28,7 @@ const IDocument = {
 };
 
 const IArtboardPage = {
-  data: IArtboard,
+  data: PropTypes.shape(IArtboard),
   handleClose: PropTypes.func,
   handlePrevious: PropTypes.func,
   handleNext: PropTypes.func,
@@ -67,6 +67,20 @@ const INavigation = {
   handleNext: PropTypes.func,
 };
 
+const IResponsiveImg = {
+  src: PropTypes.string,
+  srcSet: PropTypes.string,
+  imgWidth: PropTypes.number,
+  imgHeight: PropTypes.number,
+  contentWidth: PropTypes.number,
+  contentHeight: PropTypes.number,
+  contentOffset: PropTypes.shape({
+    x: PropTypes.number,
+    y: PropTypes.number,
+  }),
+  alt: PropTypes.string,
+};
+
 export {
   IDocument,
   IArtboardPage,
@@ -78,4 +92,5 @@ export {
   IThumbnail,
   IButton,
   INavigation,
+  IResponsiveImg,
 };
