@@ -45,7 +45,7 @@ const ResponsiveImg = ({
         setFinalHeight(finalHeight / biggestRatio);
       }
     }
-  }, [contentWidth, contentHeight, finalWidth, finalHeight]);
+  }, [contentWidth, contentHeight, finalWidth, finalHeight, contentOffset]);
 
   return (
     <ImageWrapper width={finalWidth} height={finalHeight}>
