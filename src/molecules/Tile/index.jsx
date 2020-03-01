@@ -10,7 +10,7 @@ const TileWrapper = styled.li`
   flex-direction: column;
   justify-content: space-between;
   flex: 1 0 auto;
-  margin: 10px 32px;
+  margin: 16px 32px;
 `;
 
 const Tile = ({ caption, thumbnail }) => (
