@@ -35,3 +35,4 @@ Regarding component's architecture I've used Atomic UI.
 - Add media queries to the artboard's list to have better control about the number of tiles per row and to fix the  flexbox "last row orphans situation"
 - Add customized loading, error and homepage screens
 - Move CSS variables into a separate file
+- Add teach to smaller components - I've only tested the main interactions in the Document component
