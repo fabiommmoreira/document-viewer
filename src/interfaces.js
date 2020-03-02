@@ -40,6 +40,10 @@ const ITopBar = {
   children: PropTypes.node,
 };
 
+const IPageWrapper = {
+  children: PropTypes.node,
+};
+
 const ITile = {
   caption: PropTypes.string,
   thumbnail: PropTypes.shape(IThumbnail),
@@ -86,6 +90,7 @@ export {
   IArtboardPage,
   IArtboard,
   ITopBar,
+  IPageWrapper,
   ITile,
   ITiles,
   ICaption,

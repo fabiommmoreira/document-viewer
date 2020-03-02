@@ -11,7 +11,8 @@ const ImageWrapper = styled.div`
 const StyledImg = styled.img`
   display: ${(props) => (props.loading === 'true' ? 'none' : 'block')};
   width: 100%;
-  height: 100%
+  height: 100%;
+  margin-top: ${(props) => props.offset}px;
 `;
 
 const ResponsiveImg = ({
@@ -19,6 +20,7 @@ const ResponsiveImg = ({
 }) => {
   const [finalWidth, setFinalWidth] = useState(imgWidth);
   const [finalHeight, setFinalHeight] = useState(imgHeight);
+  const [offset, setOffset] = useState(0);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -45,6 +47,8 @@ const ResponsiveImg = ({
         setFinalHeight(finalHeight / biggestRatio);
       }
     }
+
+    setOffset((availableHeight - finalHeight) / 2);
   }, [contentWidth, contentHeight, finalWidth, finalHeight, contentOffset]);
 
   return (
@@ -55,6 +59,7 @@ const ResponsiveImg = ({
         onLoad={() => setLoading(false)}
         alt={alt}
         loading={loading.toString()}
+        offset={offset}
       />
     </ImageWrapper>
   );

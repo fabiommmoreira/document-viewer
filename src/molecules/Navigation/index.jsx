@@ -10,10 +10,14 @@ const StyledSpan = styled.span`
   color: rgba(0, 0, 0, 0.4);
 `;
 
+const NavigationWrapper = styled.div`
+  white-space: nowrap;
+`;
+
 const Navigation = ({
   current, total, handlePrevious, handleNext,
 }) => (
-  <div>
+  <NavigationWrapper>
     <Button onClick={handlePrevious} disabled={current === 1}>
       <ArrowLeft />
     </Button>
@@ -21,7 +25,7 @@ const Navigation = ({
     <Button onClick={handleNext} disabled={current === total}>
       <ArrowRight />
     </Button>
-  </div>
+  </NavigationWrapper>
 );
 
 

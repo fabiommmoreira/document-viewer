@@ -16,8 +16,6 @@ const PageWrapper = styled.div`
 `;
 
 const Content = styled.div`
-  height: 90%;
-  width: 90%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,8 +25,30 @@ const StyledSeparator = styled(Separator)`
   margin: 0 4px;
 `;
 
-const Title = styled.span`
-  padding: 0 12px;
+const Title = styled.p`
+  color: rgb(0, 0, 0);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  min-width: 25px;
+  font-weight: 500;
+  padding: 0px 8px 0px 1rem;
+  overflow: hidden;
+`;
+
+const NavigationSection = styled.div`
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1 1 0px;
+`;
+
+const FillSection = styled.div`
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1 1 0px;
 `;
 
 const Artboard = ({
@@ -43,15 +63,18 @@ const Artboard = ({
   return (
     <PageWrapper>
       <TopBar>
-        <Button onClick={handleClose}><Close /></Button>
-        <StyledSeparator />
-        <Navigation
-          current={index}
-          total={total}
-          handlePrevious={handlePrevious}
-          handleNext={handleNext}
-        />
+        <NavigationSection>
+          <Button onClick={handleClose}><Close /></Button>
+          <StyledSeparator />
+          <Navigation
+            current={index}
+            total={total}
+            handlePrevious={handlePrevious}
+            handleNext={handleNext}
+          />
+        </NavigationSection>
         <Title>{ name }</Title>
+        <FillSection />
       </TopBar>
       <Content ref={ref}>
         <ResponsiveImg

@@ -10,13 +10,21 @@ import { ReactComponent as Separator } from '../../assets/separator.svg';
 import { getDocument } from '../../queries';
 import { IDocument } from '../../interfaces';
 
+const PageWrapper = styled.div`
+  background-color: rgb(249, 249, 249);
+`;
+
 const StyledLogo = styled(Logo)`
   padding: 0 12px;
 `;
 
-
 const Title = styled.span`
+  color: rgb(0, 0, 0);
   padding: 0 12px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-weight: 500;
 `;
 
 const Document = ({ match: { params: { id } } }) => {
@@ -26,9 +34,7 @@ const Document = ({ match: { params: { id } } }) => {
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error :(</p>;
 
-  console.log('data', data);
   const { share: { version: { document: { name, artboards: { entries } } } } } = data;
-
 
   const closeArtboard = () => {
     setOpenArtboardIdx(null);
@@ -60,14 +66,14 @@ const Document = ({ match: { params: { id } } }) => {
   }
 
   return (
-    <>
+    <PageWrapper>
       <TopBar>
         <StyledLogo />
         <Separator />
         <Title>{ name }</Title>
       </TopBar>
       <Tiles entries={entries} openEntry={(idx) => setOpenArtboardIdx(idx)} />
-    </>
+    </PageWrapper>
   );
 };
 

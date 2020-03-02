@@ -7,6 +7,7 @@ const StyledButton = styled.button`
   height: 3rem;
   width: 3rem;
   border: none;
+  background: none;
   outline: none;
   cursor:  ${(props) => (props.disabled ? 'default' : 'pointer')};
 `;
