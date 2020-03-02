@@ -9,7 +9,7 @@ In the project directory, you can run: `yarn start`
 
 Open [http://localhost:3000/Y8wDMsdf](http://localhost:3000/Y8wDMsdf) to view it in the browser.
 
-Note: you can use other document's Id
+Note: you can use other document Id
 
 
 #### Run tests
