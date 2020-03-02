@@ -7,7 +7,9 @@ First install dependencies: `yarn`
 #### Run the app
 In the project directory, you can run: `yarn start`
 
-Open [http://localhost:3000/<documentId>](http://localhost:3000/Y8wDMsdf) to view it in the browser.
+Open [http://localhost:3000/Y8wDMsdf](http://localhost:3000/Y8wDMsdf) to view it in the browser.
+
+Note: you can use other document's Id
 
 
 #### Run tests
