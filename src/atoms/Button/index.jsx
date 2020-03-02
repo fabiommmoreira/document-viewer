@@ -12,8 +12,10 @@ const StyledButton = styled.button`
   cursor:  ${(props) => (props.disabled ? 'default' : 'pointer')};
 `;
 
-const Button = ({ children, onClick, disabled }) => (
-  <StyledButton type="button" disabled={disabled} onClick={onClick}>{ children }</StyledButton>
+const Button = ({
+  children, onClick, disabled, testId = 'button',
+}) => (
+  <StyledButton type="button" disabled={disabled} onClick={onClick} data-testid={testId}>{ children }</StyledButton>
 );
 
 Button.propTypes = IButton;

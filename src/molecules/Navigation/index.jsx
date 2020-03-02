@@ -18,11 +18,11 @@ const Navigation = ({
   current, total, handlePrevious, handleNext,
 }) => (
   <NavigationWrapper>
-    <Button onClick={handlePrevious} disabled={current === 1}>
+    <Button onClick={handlePrevious} disabled={current === 1} testId="previous-arboard">
       <ArrowLeft />
     </Button>
     <StyledSpan>{`${current}/${total}`}</StyledSpan>
-    <Button onClick={handleNext} disabled={current === total}>
+    <Button onClick={handleNext} disabled={current === total} testId="next-arboard">
       <ArrowRight />
     </Button>
   </NavigationWrapper>

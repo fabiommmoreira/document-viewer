@@ -20,7 +20,6 @@ const ResponsiveImg = ({
 }) => {
   const [finalWidth, setFinalWidth] = useState(imgWidth);
   const [finalHeight, setFinalHeight] = useState(imgHeight);
-  const [offset, setOffset] = useState(0);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -47,9 +46,8 @@ const ResponsiveImg = ({
         setFinalHeight(finalHeight / biggestRatio);
       }
     }
-
-    setOffset((availableHeight - finalHeight) / 2);
   }, [contentWidth, contentHeight, finalWidth, finalHeight, contentOffset]);
+
 
   return (
     <ImageWrapper width={finalWidth} height={finalHeight}>
@@ -59,7 +57,7 @@ const ResponsiveImg = ({
         onLoad={() => setLoading(false)}
         alt={alt}
         loading={loading.toString()}
-        offset={offset}
+        data-testid="responsive-img"
       />
     </ImageWrapper>
   );

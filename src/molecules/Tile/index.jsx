@@ -15,7 +15,7 @@ const TileWrapper = styled.li`
 `;
 
 const Tile = ({ caption, thumbnail, onClick }) => (
-  <TileWrapper role="button" onClick={onClick}>
+  <TileWrapper role="button" onClick={onClick} data-testid="tile">
     <Thumbnail thumbnail={thumbnail} alt={caption} />
     <Caption text={caption} />
   </TileWrapper>

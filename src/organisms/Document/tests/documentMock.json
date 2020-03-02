@@ -1,0 +1,540 @@
+{
+  "share": {
+    "shortId": "Y8wDM",
+    "version": {
+      "document": {
+        "name": "Screens",
+        "artboards": {
+          "entries": [
+            {
+              "name": "Xerox alto",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/abbb4734-7963-414c-8f09-108988579905.png?Expires=1583197200&Signature=epwbDU21XahGhxjBiQnFDUebniistuFE10CpWN10oxFdy2P6j2wi48XDE0QgS5l4w1iyFvvrL69iAnKocBFU26I5GtTFga11n6nU06F-2Ze8JVTiAUh9qJQN1LmYYfDEZOkKEvlCDIIWvBJLigSoC4~Y8ZU5LpeL81W~-cVfYZw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 808,
+                  "width": 606,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/abbb4734-7963-414c-8f09-108988579905.m.png?Expires=1583197200&Signature=bTz5EyNN7DZMhjk4X28GYKpZFPzZFSTtA9DL9M1OoI-wXtXjlAh0r0s3oap-in4Z3oGggf9TU0X6SCB1g5nget3nY0xBquaB9t13QFob193VP5ov1V8zfWku8OxGv3CRvFFpx~ZvxhBLY3eyJy5Kka7TOlwpFUOMMuOBiJKuJs8_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 334,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/0654252f-9f8c-4d43-ad08-b556f7232641.png?Expires=1583197200&Signature=jrt32roUffPEPi8~msYGadoYFdTRs1cQ1qiPiDaIKQaGiHGDTE5atLbg5cFWqiQ5WTVju~2GINkLS-lOoUt2f9ckPxZqpepxeAoy3FSLydRWLKLU-ipy4ZBwRfk5v7DuU0sY4Q7HcvOd5y8BxlILjRPDn3KRD0apkTmk2thzATg_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1616,
+                  "width": 1212,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Etch a Sketch",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/3bf6e61f-d06d-4bc0-820b-2c5f60d2750c.png?Expires=1583197200&Signature=AetfcRLfrq5oDZsN7Xj8503HaKgzLWv6bLezLkKhPUX8UgBdnuW3-8OspO6GDmkLsUiDzNKsXXmaCxJk8Nl4W2AXZYE4jehlXv2PjZ~7QISgmDh0Ig8h6tY1AuO8onwOoH8UlxsmXO4x-ypUJOfAgkJRNxzI7PmYZLDf5~UXW2I_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 880,
+                  "width": 1077,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/3bf6e61f-d06d-4bc0-820b-2c5f60d2750c.m.png?Expires=1583197200&Signature=oFyZzrii5K8jDYMnd~zTPSvKaGLQTBzuLXt-9z3aZFUY2KmXOr6pprSUZMj3kSKKJnoz6pAT-R9NFmeznZdcjR4Q~laXqS0xOwYEQ7pm4vZgg1AkoyjRacXvmD3Y-koU7bMTB0FzXsM1PahRo0jVKc7P79GTDxrLf67e9gz-P50_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 205,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/3bf6e61f-d06d-4bc0-820b-2c5f60d2750c.l.png?Expires=1583197200&Signature=bG2XrN1zOz-PVLWHhzHtWuqp6KfKTJecMBwU4jjpVO9jEo~pXBRhLxfmrl5k7hCqE-m4GKt4bt9KmCaBkl~ZAEtx48daaTLXYDCpT7XWlduA57Tl6gmTdXa3-rUxsX4aknLePf6sVTq-VSTOXNelhT~bx2-klUoZUZSRvd9kXBk_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 613,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/fe89edd9-bca3-4286-b32f-2d0e9fcdeb64.png?Expires=1583197200&Signature=CLtOJ8fnDbl8i1KG0BjxhmFNeR2PXyF8JdRyk3oj3VWVK08xPu42KszzWwEVe~fM9yqe11hlZlFD73Vlt8ls~ZZPsdd9jQYgTEWj7d1X~p~RBuhML5j5BXJP4r0-2R19cucAQgd-FL1CH9d4ZHWWYeet~3zS0x4yxhB-glCN33g_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1760,
+                  "width": 2154,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Android",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/aad31a24-b2e3-4115-88e8-5d60a3869246.png?Expires=1583197200&Signature=AbygUCXhV8RI8ZxyV3jHUhxA1IQTsJJIKbNwA829qGSMUbs5neRVs4CHEK8I2sugTFWrNkP7LaQ5RAWfVAP-GG9jM~d5EqWK7cst3yoUM2DxcajDKj0ZuOGJE9P7wIovLieLTqgZCnxMnMnTorpxCJ3o2tsPmcnNc85FGPBQYAw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 2133,
+                  "width": 1200,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/aad31a24-b2e3-4115-88e8-5d60a3869246.m.png?Expires=1583197200&Signature=NBehLf28aTK7OxjDGLl9XpT4L8~lH~eLaEjY4xfLSnq-YGkOmfRgevmSI4OidTgf2Eg8iPcYFwJ6NUU7x6y1qAHOtPsHPKBPeSufWbZDUU0JNvkOIRaHnztexzx~XYaA7aPOGPwHTjXFkVWeSdxE2yl~qrIjUtaw8Wtt5b0nd3U_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 445,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/aad31a24-b2e3-4115-88e8-5d60a3869246.l.png?Expires=1583197200&Signature=jbYAem4rhPi5oiwwS3CqsDukevLqliJajnanruqAXYaGFPU9sGexIzgnvuRpitLMQRmeCzql9ENMxA-aylNUIbUY5fL5GMyJxD0Ir90m2~dj7ATCqXZYfsaZlfxQIg2ZqQdLXwM4bhTUuosPGDp9K1wPqfkYCHoMYnlv290hPeo_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 1334,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/cd026b7e-2f71-4a00-87ce-3b706b4b5cdd.png?Expires=1583197200&Signature=gVrPBGmrS5tBlEa5SUmFGi06T3g1CiZTyGT2o5zBhLi1IWdylQnRCwooXGiJ~Htt0SIsCQWmAYnlbgfV3xaIrAC0K-kLZFhxWICEiVLehfJYH2eJ0~KZirIrutV5P0seOELEs3ZwBIgo0qQ~7kN7~vHV1P~-ssiQ2ACNyMYHTUs_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 4266,
+                  "width": 2400,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Android 4",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/adb77083-d446-431c-962b-4f9875e4290f.png?Expires=1583197200&Signature=kMRW2eKGNry87FyhCEBDYosNjtevvDmxu2SmVpcnpS~tmdDpDIsyo3jbsm1IH1fj4a825~AxqEJTo73~1ABTqjR71AOYrjIKvDiA4Jyc6FOIA230K0nRRMZVDGNRZMB-kgDZ9-b4mBfB8JZ-FD-CRzNP15jRT57JvxJa2-LNkLM_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1920,
+                  "width": 1080,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/adb77083-d446-431c-962b-4f9875e4290f.m.png?Expires=1583197200&Signature=SvSorIgOGgAoOtgnbuhneq5zIXb7M3mX2ALszDweoMYWGMg~lVf1QIqhRKVLdnDEpy80GotFIuP5CdwQ8EkIgcyR07RLniaLN-gx9OvxCDa0kF91H7ezDd4pbQKMNhGH14Z6vRsk~mzySKmbMqqTXlXfSZl684aNISwe2ubaf5I_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 445,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/adb77083-d446-431c-962b-4f9875e4290f.l.png?Expires=1583197200&Signature=SyBLzsfEP0u37vFjbuSpXC3FfANFCQ5aiveD9cEw-fFIHFTgKKVV3hQPc7AbSF6Rl6VSktg9h1iBKsdKgKkPdrZ3WtzmQRMK0LX--1pDzuTR15oPq9Gmct4ZEstOEXeyCx4Gz-CcGbUEuxDtLi5vViT9EKyjg13nS50MZiQHB40_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 1334,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/4f1b1463-e384-4def-96f1-f50140ff1a2a.png?Expires=1583197200&Signature=rw7JVHW0Ar~TKEHMjffplbjyfBdqUaRbGUeNDdVX0wM-zCds9it4PjuKbdA473dNtDZodFtqwe7NaY8FLxmLzYiIYm29~VC9syJJS1kj3oXRkzO6oo3Tj-oTPBQh78hzuIVqS~7K28Qt9d5s1ntsdhQsgJo1-OCMk2OzXvNWqX0_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 3840,
+                  "width": 2160,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Win 1984",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/62ac50b1-4eca-4c5e-99ff-ad064ed1641f.png?Expires=1583197200&Signature=IWgmD5ri1etI48IyJPZ2MDM25-Hu38czg4QGk06d-B1xYJxgCciUBKJDvJx6~dqZ-sx779I0rMTTdiY7w~k4ckQL8yvNZZEHr0XKwjbj0O4Cq3zLmZBAPQXrNGwuBum0biuXvzxhNpD7s~X3olD32hTkndgLddHaJq0aTfXuDIQ_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 384,
+                  "width": 720,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/62ac50b1-4eca-4c5e-99ff-ad064ed1641f.m.png?Expires=1583197200&Signature=Kfcx78mRk5iN3-hp7bvtXlrqEKSD302su3YHafbqTQhtudPvAEcH56OVMIE6hHKtkV9BxyNgwdaUmeQk~LCHgpP-5GdRKbLJovTHWX-XOuE4rc66UeEe5q~SkkQFBBppOQTpsEo7vqoOPDycbBq0upX95Fm775K-7IWJUmFAByU_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 134,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/284b83d6-6466-4b7e-b1ff-6b0f8ca231ea.png?Expires=1583197200&Signature=riVkSqQQnF88-mi665jE5knAyirOcZ03uaACJGh8U8P4UDox4DpmB8HwtmQMoj~aUr3lD95FRLtqsp-z6XbM2B2hmQng8nXr4TIPk-F4WIhU6r3b868b9AeY~PT-0B575Em4Mm-5nT02SNWZGCqCUwUlzDoX0SmUn1WBWLIQbV8_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 768,
+                  "width": 1440,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Windows Vista",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/867a3cdf-60ae-4bcc-a958-b2d4b1a6e51f.png?Expires=1583197200&Signature=SmidAi7eWRtYlWiFc4PmarPRnYQB91iEQE6DVZOUvx5Hb~hdxxyB8VxYVDX-n~VgdJEWjnmcIFS2jLqn8uE1CIbMqXdPbCj-Wp44PakmG0C9BMA-HPca2nCQ95DPjq~UIFQUrH7Ypuu6-p9TERZcjaB4YM-U3PfrWc9~lxKTfMk_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 768,
+                  "width": 1024,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/867a3cdf-60ae-4bcc-a958-b2d4b1a6e51f.m.png?Expires=1583197200&Signature=uPQkpjasHGcV0E9ityEOsO8rHJ~~LeZZh9A1avWmgGkvjAH7mZGx8Jw4g2mWcP2R01R7IWAnZ3yn1z~EhIYa5j81Aw7qSCN0MWTl6IkakGMma60bpEfYWhJtj~DA6KpjaR1ienXmj4sH8kSqnvCKQyZsV1vUe6twLNz2JnnvYyU_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/867a3cdf-60ae-4bcc-a958-b2d4b1a6e51f.l.png?Expires=1583197200&Signature=Z-y71yaCYO3FtTNsWP9-pqgN0sI9ZqIronsCsCEo8wuoqZRQH9b6yOSA9PsmTKi~fGPc5Lcw5vhJ39QDTAzEfpq-dLJdBXATDRQbgX-mRFC52QnWaj9vTGlZpQc3NQ3bNSVbKrUjk7dPHJ7ftHa1wmx45EM~tGtK38OefzPjbZU_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 563,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/4e17e9c7-b62c-40fa-b5b7-4ddf4152f3f9.png?Expires=1583197200&Signature=XakzLywZ8-t0ThZRV7QdCYHhTAMA7yxTGB9VVXKIN8dYVppprYJSVI-wzWWFdAG89imM3KsIYxjCXgKhNq1Cg8HnlaZVjEnPjIjWNoV~9bO6IPIOwlTLSmfKDuurRUn0Y8H68WO2vsXDxZxSMxn4xVWi~x39bMF3JjsjffMPBUk_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1536,
+                  "width": 2048,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Windows Phonw",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/70f275be-7d48-4e6b-8c32-96da1e42d44d.png?Expires=1583197200&Signature=HqfBDzq9M-C7tewP6cd4g6jkdmALBWZUz0XlhR4LKw7C60rMipHMPPBTjLt8Wu~diAS1utOoBnPNAOdCsRhUvuxn9LJJbaPAzQO1SR5O89f33zgsjOCrpRgS7LjTbPHWyFp-464~BxZ25jxnSv3dxmEy~M7bu3-OZxO9i6VaiiE_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 533,
+                  "width": 300,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/70f275be-7d48-4e6b-8c32-96da1e42d44d.m.png?Expires=1583197200&Signature=hP7POOINYit2R1JtNNSgH2lE1pzjHU~cF0LG5H3bxqe3Z6iwudKdeCqVTFHrsd1j~-4kK36bi6bHlUDUoXE7WIQkyXZGMOgPtnowfwxFdGJTl0F4Ly0R3L6ivZ9AXsdlLJNR4o85eoDxxsV1nQTBPaR2STxAlS83jkPhsuYdAGw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 445,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/d2f90994-8683-4f99-bc5e-10843a5d86e2.png?Expires=1583197200&Signature=nLKDfGNgBD7cYbilIXYyEeIukHdfHWSrteURb4teaiJrWnUv6hnffT4PebIbfKGcZUZA8yk7qfhMjqMhR6acdBRkH1lbTWu9iC1BA-tvsW0AE-JR9GwMthOF~FDgO9UoURA5VM5nKhoucIcWSiXFdSSKAm7svpGo4dHdub3U1nw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1066,
+                  "width": 600,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Lisa",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/bc84f0f9-b012-4ced-ac25-992a46174882.png?Expires=1583197200&Signature=bzU66tifizpWYvafCR1WuGpo~JyJyPpoxkUT5xzpPOV1OOUh~rQmfN~4F9ZRWkHGoWUeCqvxfGjqMHW2b~75oDrSi6jrZ2xzxTMHaQSJBmWlelJAIJENdC1QNeZnZrCXmvvvjnajGJfY3krPwlMZ4SrS520XEVfEe5d9tcoayM0_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 500,
+                  "width": 720,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/bc84f0f9-b012-4ced-ac25-992a46174882.m.png?Expires=1583197200&Signature=Q2-UbOasS0q8zOJzWdRpqy-VoK0wZHLoIlqdEE9b14QiYi31qCmqLtuU2D5tdfaQ1yzDzTSRMihYl9nl5JTXb-hOAXsNjscpX~cRoiW-M6GcT55r7BWNUDxAiPJ~9cvnDIco5gNXwNTRyTnXqZ~2T-iDHMeu-SgjfqEeRs3vniI_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 174,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/be76c4e4-13b0-4cbe-b303-1bfce2e9322f.png?Expires=1583197200&Signature=XmH8LSNauizcOfHzc4xMLvDJw3mz8V~VlLHcc24iOLhY8jCurvJDIFv6TRdMiY-pbjLRwvnv97vblU~qKI5h9XxMbuVIKTLToyxAhuXkvDqnAFWIWlPNrbKkN7qctAc5TAhjLVc0fyK17LFsYoVo-Qo47rULWh5na3qQp6kiFtw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1000,
+                  "width": 1440,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Apple II",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/b241267a-29d1-4565-82c4-c9a4acda838b.png?Expires=1583197200&Signature=o1xPg-lCRaiwfjuR-k~ry1mKj~No1xsBC19wQ0XFE8fKjoea0lJlfdTX0wkXP14BV29wHHBoGt0iHBi7Jhb~FAEc4abui7EgbierDx6ZGhIOxNEn~yqZSJNkAm2ce4Bw8QqOKvXRf7JCYwxWs3qPTvSxzgKwo-sZbY5DISgrH5A_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 384,
+                  "width": 560,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/b241267a-29d1-4565-82c4-c9a4acda838b.m.png?Expires=1583197200&Signature=QYdgwh5EREulBa2u-h~5mALEjmhe1NncOaL4~3Xnm4iCdQtmxd3zURa9GEn9MVguWNok8zaT3quGpBkgWU7kFzC~pthBWDl3UiOA0jZ0yui1EC1kL6mmE1qAdmNs2MLeBinzud1SW6F4Px7NzXioGTP3URy0JFWCGqZraNdgpfQ_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 172,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/8db13c21-3621-4ea1-811d-5db4014519d7.png?Expires=1583197200&Signature=Hox0h2LQx6KJjoz0KJhu67XRQFLeZRO3eXSpQfOLmTQZSNs7xxSbnDK2TIgTx5pQ5bku29Ua4GT35JTsE4vLrLo5Yl9DL0kyHejuiUvZK5L87SGzKIF9K2Zl0GsTxPR2opH8dntTcxHHeQUlk8jmVZY813VxD9z6P0gseSABjYM_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 768,
+                  "width": 1120,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "Window 3.11",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/0ae8e792-77b2-45b1-93a2-a38752889099.png?Expires=1583197200&Signature=dZc7zgMYltVYnLEgDZ23Ol099fFDUFG0rhM70Af-m06nR-~H2f4-1oqqIsoO85~swrigRImQE-uMvg0WS5aar0HGkzqSgg4hWc3-oEaQDtpfFKXZ3wd0WsFIlrJpa0IchxYraIijcKQGrgkhWxH4oAQPAMAqDP3zQZl~MT~3laE_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 480,
+                  "width": 640,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/0ae8e792-77b2-45b1-93a2-a38752889099.m.png?Expires=1583197200&Signature=TAtUMBidvSUX3ixFA1xhATYg0pje6pSlDqoG6TiEAA2qWOMpzEWunvWRPfFG0oDT4zwOgXKmuBCxPwx~p-Z2IQ0HWhpiaFdmcetLKGP4W4kA5cf6FHj76Z0RlUh9LGiNxNfIP1WVK8WffYzB795drEZ9dMs9HrQjyZ9jjwuy4Fs_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/a7944937-46d2-47d3-9751-4d1d6119fbf8.png?Expires=1583197200&Signature=uPIi4Vht2DV0mVlOUyE6vnCyuT5iOhazcCqMCA3ZL0GnPBVmH6U1H8yatHzQI6gLbrMzcsxhH59R9kdtnhMu4VAsyKC2nYZsZOwU4OSSNebSSXzcS6F8HGM7trCu8DR8pOlSeK0lz9lPUdU4XsrZI00RWpOXzASNR-7ydF146Ek_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 960,
+                  "width": 1280,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "RedHat 8",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/66cbeadf-9309-446a-84e5-e1277da7a167.png?Expires=1583197200&Signature=JbjpdBKqAAAexd~gIuqUtBJGyJssjfpKPnryzdSDHnYQv5hWBMv-vXo1ub7FXe-W8hSabklAfnYvYadhVHCn~BJaZ5Lzw7eVIBV8nphtswK1iLjvRQCubCMTjld7abnTAuDj-Q8w97b212gRMpRX5KqQWVPpfIy2n9UJ1tMsI5k_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 768,
+                  "width": 1024,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/66cbeadf-9309-446a-84e5-e1277da7a167.m.png?Expires=1583197200&Signature=aqjCMS8H6KDmHE6-hclK8emeie9HE~8PzqUw62RHwki0kMvnQ9T6kY6kaBemROqHvGmzZdLBm5MI6Gp-MD0Kf3b~4-7QUXzjS4L3iaN1geFAlDegOLChjKas79gizpqwv0tlo5gQaPk~EBBazf~NSoq8DFKaF3Kgvl8AKBZFZjE_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/66cbeadf-9309-446a-84e5-e1277da7a167.l.png?Expires=1583197200&Signature=XKGpgbWTmW4Zmsfdn3v2EOUBiCj6K5SOaJXqpDpdpLywfFA3BUbHnPeBibLTKfQO7KfHX0hEQrF7I1f~5Uuoel-kZGYaxwRc6b85RvBAbuIzDrBogj9vVSufezf9xCSouzdjhx5mTQtAuFIxdA9Z3bMczFaRXLkcKyFoQjTAerY_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 563,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/ed93538c-370a-4ead-a8c1-d74db8a81a98.png?Expires=1583197200&Signature=la~hGOAQrIkI4-ULWhY4pAP59e1y57ajgek~KqQnW3Q69gI8-4Pvordt2nhl0p8NCETQGJO~friMIYPh-Js4ZL6EqaCuZRkiyQInLqfLQQH0GAgTsehgMwXQwIkZVf5ngZDCvRbZggGaDGI7mrzqJokafD6uc8h9OzLWI1OVnHk_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1536,
+                  "width": 2048,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "OSX",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/5ae7576c-9268-46b2-88db-1068879ee938.png?Expires=1583197200&Signature=hSU3Y24155LELvMmIsn6fFYCNRQB8yHTNlHXAJf3~wEEQWALbjOpLSKqDSlQ~GcdV3QBpZA5d49hM0MZ4AscRoxeOPOG5oZrnEFmeKKhF0K-6tb4LL9HGlPZdU6JsS2UrAuUpLFxBctTzfwDBuXAq3l42GbUAgcw0XQNhi~CCuY_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 768,
+                  "width": 1024,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/5ae7576c-9268-46b2-88db-1068879ee938.m.png?Expires=1583197200&Signature=YPf0fD3kz0lvOlS~YQmQVrN~uFtWa1OXO0aw6bXir6cnfYbHd5sO842hlpbW69mzSWcn9Bs3t4V8UPKPJWJQDN6~7SgKildbKBKjg6yJKLvHFjB7uEbZOtFqwHDtK-OxdOxW9Ahx-LHOFAQNfSINy165HWduXS-9Nfd1-3IF2Dw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/5ae7576c-9268-46b2-88db-1068879ee938.l.png?Expires=1583197200&Signature=Vim3205~4PvAFAI2uaVhUGfcMkM2TmgMelN---RvodQCv-3dMGo8Z-y4NNnUf-kfFuzeSEnbFVooRDgEVcb5gHb2jQu6f6Ix7iQYWXNT4KUwLk5DVxA22efU3wPX5qYvjTyWabieIVOYxrTR4pc8gkGbyTZeTX4XlRZ-UDnLw7g_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 563,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/4a8af196-7ac2-4e85-9edd-50a6c5b70688.png?Expires=1583197200&Signature=i0SpxaSaydkSe~BAfRZupN6g10t1AhGNhkk20JYtoFaw5T6ipOu8Y1SFCVzDyoZu84zYgvwFkjWveFSAdaAFHdxL0EV4HE6EVVJpVYo-ZAEOf07ful-JY5odhGdfMZjPslZDm8XGMNguhZ8mnkrh0acdoCCqVdrv4MNuL0vOk5k_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1536,
+                  "width": 2048,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "MacOS 9.2",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/cf629cff-5207-4a24-ae54-e9650d4b1f44.png?Expires=1583197200&Signature=L~8onEU-7QPicSS6Y1eE5uNuvt8R98JvyqUo8zdOXRlqqA7~RuzeCvW0zn-hwnBaaoWtxenDdPoUHgX9DD0EjKQPOJNVMFx8F3OcQ43QSFbfFtaiDSFOldaUicMrUJgYC56qoxGDoy27A-JioAxkefbDcq2MBnWCXOMVPEYuCX8_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 600,
+                  "width": 800,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/cf629cff-5207-4a24-ae54-e9650d4b1f44.m.png?Expires=1583197200&Signature=ftl~i2U1ebwtiWfBO-wTJcp4Zd9d~jg3WUI6ngX-sBWsBCs9nHbtc8E3HgIgqlqk9x-wFgrP5kkRyEcYqdGxt4-RpYTXxYxalJiDWYZm4giTo8zmx5ZQiBOflal97ylwjp6gD17diiH1-mJ7bWNVmRDQ5Cv1HK7xZQKa-Sty0Tg_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    },
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/cf629cff-5207-4a24-ae54-e9650d4b1f44.l.png?Expires=1583197200&Signature=CJzzUbNRu-sTUHeawnGvK8gsdWiTl3qSaCl2zxtHK0xNnvECQGYnvn82bkapK7~ng7ON9OoFalNEjoao0il0aJMOWRw9c0aPXN6TP6lGu0U72-Ke2w2mwefDatmB1--zEtd92bwi0fzTVYdE3YiLOS2AU0CelL0tQd69C2ibHyk_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 563,
+                      "width": 750,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/ee8f1996-5c68-4fa8-8915-cbf629240812.png?Expires=1583197200&Signature=Dj5Acq2mETRNXsw1v94MM7g3CcTkC6cmPjBn-HRUleOs2dfMDg2sxe~gPG4apmHGpT1oL2EbpkqkXm6qqX93wosyflgQ1aFe77m~MmM6L3TdgOqiQgjZ1GsjFwFBJpmCdXlQzqIj~WZACpC33QT1rreItQJ~3yyVt1CMWkURu5s_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 1200,
+                  "width": 1600,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "MacOS 7.5",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/2cb7ba3f-00ba-412f-988c-000c8ea0696a.png?Expires=1583197200&Signature=IQNKLf5FieWxc7X--6V~uGssZmHhd4ljUHnClKBDu--S~amjHb6eVC4kpsQIDz7Di~xKfVPsGY-Jiv7Rs~aC8Ct-F5p1rvPkDkrqmh1ifQ2-G3De8dtGNyWXFZfBsqzz9EC84S0u1Fq21gq8MlTL15MvvKobfVfXm832vCD7A9g_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 480,
+                  "width": 640,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/2cb7ba3f-00ba-412f-988c-000c8ea0696a.m.png?Expires=1583197200&Signature=qXyaqwGA251drcanvuSVCC~ZVAG5-Y61hn0Fu5EcQxXopDtPB7MBATjVeHhhX6MwPCnbpw5nlPOE6P5qmzW5biCO6xAISuONXKPEdvRxnO7M9zPKCV8ibCGPSLlpWK0cCdqbOuPD0SjM~KvVP3zi8RR3OB9O~CleO~InJGhVtIw_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/f5d388ff-f54a-45a0-a489-b64c9a2cc89a.png?Expires=1583197200&Signature=DXCgLs5fFEXnWSB-Aa95Pg~uKU3E5kbgBIrjPfmB0G~I4M7ovuUBs2aSvy395nfCI2k~XJ0Khoxb8zPnM8u-KehVhzp9C7sVOxxFQiv2IsfLdLO4riB0Uqo64kDztOR6OsTIyPFiB6VGulQz~MP-p8a5tmXzcggpr9e1bie3boQ_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 960,
+                  "width": 1280,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "iPhone 3",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/ed07d8d5-8954-4136-9248-88ab6bcdf744.png?Expires=1583197200&Signature=EsCWyOU9R6uTiNKA7aYX~Ue04kwJys2X4t9CmXP7Qp6BKII0iwmbtjg4coyCBsZQ9qJQ5raPJMwKK1MRMxbAdEC18ycpywnChnVQFCmkSuifg3dJZJMKOMiYUlHKSNXTGIl-JdkIsJKb0Pim2asxOtfM7Y1jQVgrVkIJXvBdK4U_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 387,
+                  "width": 258,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/ed07d8d5-8954-4136-9248-88ab6bcdf744.m.png?Expires=1583197200&Signature=N6O3ZlFGLL4vVSGnmCbLRmnY88fLqH5WYnDvu2GNcX-eixz7olE6qy6aoE3T6vlVVbkTSXNKMAkyrhHkE6KLewE~QK99Kn9uG1aRI-MMQ~ExbzuwWZEYiE9fXQgQImbJijJITrrD0qE8lZf5TyAFIw~bwXcj0WjFDAkhcGbt3gU_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 375,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/4940dfd4-bf74-4e1d-af83-795f9e358525.png?Expires=1583197200&Signature=HNnER48EKnDyKYjMhlctDecUdHOATF~XBw1sp02BhuA4~vY7Z~SzCDaifHC4UzJ5f6F6SOV2-3CTiTOktojVRbxb3zADsvIAqPqibwXPikR197A0eMCeAaATipDZN5K9EToqMYO9rFkHorvTGjD-D5fd0yEDlKdny0~hZ-i11Vk_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 774,
+                  "width": 516,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            },
+            {
+              "name": "AmigaOS",
+              "isArtboard": true,
+              "files": [
+                {
+                  "url": "https://resources-live.sketch.cloud/files/3c9058fb-a807-4109-95ef-7251aa267a96.png?Expires=1583197200&Signature=Huh89ZFvz3HAylfEUZ0vqYLNMT225ntipb9F-8NqCd0HVhjfpN~4QYeIs~cdLfGusaZEoc6DTKm0MyXbCjRebCJm4Mj2DzmVfxp8sKzSHJe3TXGUNx9s6w4vGcfG81wJHxr~EE59oGQiZFfJQ0L-m3PrJvDEztPgj4aCH6kHFkU_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 480,
+                  "width": 640,
+                  "scale": 1,
+                  "thumbnails": [
+                    {
+                      "url": "https://resources-live.sketch.cloud/files/3c9058fb-a807-4109-95ef-7251aa267a96.m.png?Expires=1583197200&Signature=lBKm4aI5n0UFUlB38goxBrPNNPhVZQX-wQs1PFuSFGq4GvIJREy5qvkG77WEaoooC1qTZGGI-WV5UELaSi4UzECIHmUQA20iipz6G0A3QKubBHWSxocnfXBxmHnBEUip0FAjRzmvh9jKZbXtmArPOWdz9TWrG9INYjSZcxO9gSU_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                      "height": 188,
+                      "width": 250,
+                      "__typename": "Thumbnail"
+                    }
+                  ],
+                  "__typename": "File"
+                },
+                {
+                  "url": "https://resources-live.sketch.cloud/files/65b5303d-773b-4d3e-bbb3-ddb79ceb54f1.png?Expires=1583197200&Signature=KKkZQu3Ojn7P23UZWxkWFWI-wb2A5KMR8ZFh1AH-IOybtS2EiPmwCQbp7mdAFWsTCwdqrHTXYUu-~gPsSK1d1Mt7WfDHUf19BXparWeI07PXRwDau-wF2btwBZeFZnmspwBy1Zsnj63RQv3RuAa6wQCPYlMUfcXaN9jj7-tvcJc_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+                  "height": 960,
+                  "width": 1280,
+                  "scale": 2,
+                  "thumbnails": [],
+                  "__typename": "File"
+                }
+              ],
+              "__typename": "Artboard"
+            }
+          ],
+          "__typename": "Artboards"
+        },
+        "__typename": "Document"
+      },
+      "__typename": "Version"
+    },
+    "__typename": "Share"
+  }
+}

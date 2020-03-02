@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+import ReactRouterPropTypes from 'react-router-prop-types';
 
 const IThumbnail = {
   url: PropTypes.string,
@@ -21,10 +22,10 @@ const IArtboard = {
 };
 
 const IDocument = {
-  name: PropTypes.string,
-  artboards: PropTypes.shape({
-    entries: PropTypes.arrayOf(PropTypes.shape(IArtboard)),
-  }),
+  history: ReactRouterPropTypes.history,
+  location: ReactRouterPropTypes.location,
+  match: ReactRouterPropTypes.match.isRequired,
+  route: ReactRouterPropTypes.route,
 };
 
 const IArtboardPage = {

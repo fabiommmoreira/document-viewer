@@ -19,6 +19,7 @@ const Content = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  height: calc(100% - 64px);
 `;
 
 const StyledSeparator = styled(Separator)`
@@ -64,7 +65,7 @@ const Artboard = ({
     <PageWrapper>
       <TopBar>
         <NavigationSection>
-          <Button onClick={handleClose}><Close /></Button>
+          <Button onClick={handleClose} testId="close-artboard"><Close /></Button>
           <StyledSeparator />
           <Navigation
             current={index}
