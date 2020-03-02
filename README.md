@@ -1,68 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Sketch document viewer. It allows you to see a Sketch document's artboards.
 
-## Available Scripts
+## Instructions
 
-In the project directory, you can run:
+First install dependencies: `yarn`
 
-### `yarn start`
+#### Run the app
+In the project directory, you can run: `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/<documentId>](http://localhost:3000/Y8wDMsdf) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+#### Run tests
+Run the tests with: `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Decisions
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to have a an easy kick off from a boilerplate that's not too bloated.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+I've opted to use [styled-components](https://styled-components.com/) since it's what is used at Sketch and it's also the way I prefer to do styles.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Tests were made with [tesing-library](https://testing-library.com/) since it's pre-built in Create React App and it's I'm comfortable with besides having the most sensible approach to testing in my opinion.
 
-### `yarn eject`
+I've not gone with Typescript for simplicity reasons and have done type checking with React's PropTypes.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+I've added React Router to be able to open diffent documents form the URL;
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Future improvements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Add media queries to the artboard's list to have better control about the number of tiles per row and to fix the  flexbox "last row orphans situation"
+- Add customized loading, error and homepage screens
+- Move CSS variables into a separate file
