@@ -28,6 +28,8 @@ I've not gone with Typescript for simplicity reasons and have done type checking
 
 I've added React Router to be able to open diffent documents form the URL;
 
+Regarding component's architecture I've used Atomic UI.
+
 ## Future improvements
 
 - Add media queries to the artboard's list to have better control about the number of tiles per row and to fix the  flexbox "last row orphans situation"
