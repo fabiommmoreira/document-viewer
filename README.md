@@ -1,4 +1,4 @@
-This is a Sketch document viewer. It allows you to see a Sketch document's artboards.
+This is a document viewer. It allows you to see a document's artboards and navigate through them.
 
 ## Instructions
 
