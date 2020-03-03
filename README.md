@@ -36,3 +36,5 @@ Regarding component's architecture I've used Atomic UI.
 - Add customized loading, error and homepage screens
 - Move CSS variables into a separate file
 - Add tests to smaller components - I've only tested the main interactions in the Document component
+
+Note: Sorry about the `mend` commits. I've made a typo in the _git amend_ command and it has set those commits in the commit tree :/
